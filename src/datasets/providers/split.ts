@@ -35,5 +35,11 @@ export const Split: Provider = {
       href: 'https://github.com/open-feature/php-sdk-contrib/tree/main/providers/Split',
       category: ['Server'],
     },
+    {
+      technology: 'Kotlin',
+      vendorOfficial: true,
+      href: 'https://github.com/splitio/split-openfeature-provider-android',
+      category: ['Client']
+    }
   ],
 };
